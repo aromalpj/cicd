@@ -7,11 +7,11 @@ void test()
 
 int main()
 {
-    //int array[5];
+    int array[5];
     printf("Hello, World!\n");
 
-    //array[4] = 12;
-    test();
+    array[6] = 12;
+    //test();
 
 
     return 0;
